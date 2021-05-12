@@ -20,7 +20,7 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
     "slick-carousel": "^1.8.1",
-    "swiper": "^5.2.1"
+    "swiper": "^6.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
